@@ -1,9 +1,6 @@
 Hi 👋 My name is Ken
 ====================
 
-Data Science and Data Analyst
------------------------------
-
 * 🌍  I'm based in USA
 
 <a href="https://www.github.com/KenSteadman" target="_blank" rel="noreferrer"><img
